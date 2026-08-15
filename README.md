@@ -2,7 +2,7 @@
   <a href="https://tarataritools.github.io/"><img src="https://github.com/tarataritools/tarataritools.github.io/blob/main/images/TaraTariOptimizerAppLogo.png?raw=true" alt="TaraTariOptimizer" width="128" /></a>
 </p>
 
-<h1 align="center">Kudu</h1>
+<h1 align="center">TaraTariOptimizer</h1>
 
 <p align="center">
   <b>Free, open-source system cleaner & security scanner for Windows, macOS, and Linux.</b><br/>
