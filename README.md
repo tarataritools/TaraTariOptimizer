@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tarataritools.github.io/"><img src="https://github.com/tarataritools/tarataritools.github.io/blob/main/images/TaraTariOptimizerAppLogo.png?raw=true" alt="TaraTariOptimizer" width="128" /></a>
+  <a href="https://tarataritools.github.io/"><img src="https://github.com/tarataritools/TaraTariOptimizer/blob/main/src/renderer/src/assets/logo.png" alt="TaraTariOptimizer" width="128" /></a>
 </p>
 
 <h1 align="center">TaraTariOptimizer</h1>
